@@ -1,1 +1,4 @@
 (Hotfixed) existingFeature1 
+Some spacing changes added to file
+existingFeature1 
+small edits
