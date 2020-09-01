@@ -1,0 +1,3 @@
+Squashing and merging a hotfix which causes conflicts automatically shows those conflicts on release branches PRd into master 
+Those conflicts must be resolved prior to the release branch being mergeable. 
+The way to resolve these conflicts is to run "git pull origin master --rebase" locally
