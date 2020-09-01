@@ -6,3 +6,4 @@ Feature 1
 
 Log: 
 Added feature 3
+Added Feature 2
